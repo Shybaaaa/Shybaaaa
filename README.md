@@ -1,4 +1,4 @@
-# Hi, I'm shybaa [![Repos Badge](https://badges.pufler.dev/repos/Shybaaaaa)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Shybaaaaa)
+# Hi, I'm shybaa [![Repos Badge](https://badges.pufler.dev/repos/Shybaaaaa)](https://badges.pufler.dev)
 
 <br>
 
