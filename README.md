@@ -1,6 +1,6 @@
 &nbsp;
 
-# Hi, I'm shybaa [![Repos Badge](https://badges.pufler.dev/repos/Shybaaaaa)](https://badges.pufler.dev)
+# Hi, I'm shybaa
 
 &nbsp;
 
