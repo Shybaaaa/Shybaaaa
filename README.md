@@ -26,13 +26,3 @@
 
 ---
 
-&nbsp;
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shybaaaaa&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-<br><br>
-<p align="center">
-  <img width="395" height="auto" src="https://discord.c99.nl/widget/theme-4/526747156296630323.png">
-</p>
-
