@@ -11,4 +11,4 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shybaaaa&" alt="shybaaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shybaaaa&theme=dark&hide_border=true&border_radius=4&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&ring=D32525&fire=EB0000&stroke=EBE7E7&hide_longest_streak=true" alt="GitHub Streak" /></p>
